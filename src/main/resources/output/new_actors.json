@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Bahoi",
+    "performances": [
+    {
+      "production": "Bahoi sare de pe pod",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Bahoi este un rapper roman. Acesta a devenit cunoscut in 2009, odata cu lansarea filmului 'Bahoi sare de pe pod'."
+  },
+  {
+    "name": "Brad Pitt",
+    "performances": [
+    {
+      "production": "Fight Club",
+      "type": "Movie"
+    },
+    {
+      "production": "Once Upon a Time in Hollywood",
+      "type": "Movie"
+    },
+    {
+      "production": "Se7en",
+      "type": "Movie"
+    },
+    {
+      "production": "Inglourious Basterds",
+      "type": "Movie"
+    },
+    {
+      "production": "Moneyball",
+      "type": "Movie"
+    },
+    {
+      "production": "Friends",
+      "type": "Series"
+    },
+    {
+      "production": "The Big Short",
+      "type": "Movie"
+    },
+    {
+      "production": "Ocean's Eleven",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Brad Pitt is an American actor and film producer. He has received multiple awards, including two Golden Globe Awards and an Academy Award for his acting. Pitt gained recognition in the 1990s for his roles in films like 'Legends of the Fall' and 'Seven'. He is known for his versatility and charismatic presence on screen."
+  },
+  {
+    "name": "Cate Blanchett",
+    "performances": [
+    {
+      "production": "Blue Jasmine",
+      "type": "Movie"
+    },
+    {
+      "production": "The Lord of the Rings",
+      "type": "Movie"
+    },
+    {
+      "production": "Carol",
+      "type": "Movie"
+    },
+    {
+      "production": "Elizabeth",
+      "type": "Movie"
+    },
+    {
+      "production": "Notes on a Scandal",
+      "type": "Movie"
+    },
+    {
+      "production": "Bandits",
+      "type": "Movie"
+    },
+    {
+      "production": "Robin Hood",
+      "type": "Movie"
+    },
+    {
+      "production": "Little Fish",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Cate Blanchett is an Australian actress and theatre director. She is known for her diverse roles and has received numerous awards, including two Academy Awards for Best Actress. Blanchett is celebrated for her ability to embody complex characters and bring them to life on screen."
+  },
+  {
+    "name": "Charlize Theron",
+    "performances": [
+    {
+      "production": "Monster",
+      "type": "Movie"
+    },
+    {
+      "production": "Mad Max: Fury Road",
+      "type": "Movie"
+    },
+    {
+      "production": "Atomic Blonde",
+      "type": "Movie"
+    },
+    {
+      "production": "The Old Guard",
+      "type": "Movie"
+    },
+    {
+      "production": "The Italian Job",
+      "type": "Movie"
+    },
+    {
+      "production": "Arrested Development",
+      "type": "Series"
+    },
+    {
+      "production": "Young Adult",
+      "type": "Movie"
+    },
+    {
+      "production": "North Country",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Charlize Theron is a South African and American actress and producer. She is known for her transformative roles and has received numerous awards, including an Academy Award for Best Actress. Theron is acclaimed for her ability to fully immerse herself in her characters and bring authenticity to her portrayals."
+  },
+  {
+    "name": "Daniel Radcliffe",
+    "performances": [
+    {
+      "production": "Harry Potter and the Sorcerer's Stone",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Chamber of Secrets",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Prisoner of Azkaban",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Goblet of Fire",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Order of the Phoenix",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Half-Blood Prince",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Deathly Hallows – Part 1",
+      "type": "Movie"
+    },
+    {
+      "production": "Harry Potter and the Deathly Hallows – Part 2",
+      "type": "Movie"
+    },
+    {
+      "production": "Swiss Army Man",
+      "type": "Movie"
+    },
+    {
+      "production": "The Woman in Black",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Daniel Radcliffe is an English actor and producer. He gained international fame for his role as Harry Potter in the Harry Potter film series. Radcliffe has since taken on a variety of roles in both film and stage productions, showcasing his versatility and talent as an actor.",
+    "ratings": [
+      {
+        "username": "testRegular",
+        "rating": 5,
+        "comment": "sdasfsasf"
+      },
+    ]
+  },
+  {
+    "name": "Denzel Washington",
+    "performances": [
+    {
+      "production": "Training Day",
+      "type": "Movie"
+    },
+    {
+      "production": "Glory",
+      "type": "Movie"
+    },
+    {
+      "production": "Malcolm X",
+      "type": "Movie"
+    },
+    {
+      "production": "The Equalizer",
+      "type": "Movie"
+    },
+    {
+      "production": "Fences",
+      "type": "Movie"
+    },
+    {
+      "production": "American Gangster",
+      "type": "Movie"
+    },
+    {
+      "production": "Remember the Titans",
+      "type": "Movie"
+    },
+    {
+      "production": "Inside Man",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Denzel Washington is an American actor, director, and producer. He is known for his powerful performances and has won two Academy Awards for Best Actor. Washington is acclaimed for his ability to inhabit complex characters and bring depth to his portrayals."
+  },
+  {
+    "name": "Johnny Depp",
+    "performances": [
+    {
+      "production": "Pirates of the Caribbean",
+      "type": "Movie"
+    },
+    {
+      "production": "Edward Scissorhands",
+      "type": "Movie"
+    },
+    {
+      "production": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "type": "Movie"
+    },
+    {
+      "production": "Finding Neverland",
+      "type": "Movie"
+    },
+    {
+      "production": "Alice in Wonderland",
+      "type": "Movie"
+    },
+    {
+      "production": "Benny & Joon",
+      "type": "Movie"
+    },
+    {
+      "production": "Donnie Brasco",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Johnny Depp is an American actor, producer, and musician. He is known for his eccentric and versatile roles. Depp gained international fame for his portrayal of Captain Jack Sparrow in the 'Pirates of the Caribbean' series, and has continued to captivate audiences with his unique performances."
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "performances": [
+    {
+      "production": "Titanic",
+      "type": "Movie"
+    },
+    {
+      "production": "The Revenant",
+      "type": "Movie"
+    },
+    {
+      "production": "Inception",
+      "type": "Movie"
+    },
+    {
+      "production": "The Wolf of Wall Street",
+      "type": "Movie"
+    },
+    {
+      "production": "The Departed",
+      "type": "Movie"
+    },
+    {
+      "production": "Growing Pains",
+      "type": "Series"
+    },
+    {
+      "production": "What's Eating Gilbert Grape",
+      "type": "Movie"
+    },
+    {
+      "production": "Revolutionary Road",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Leonardo DiCaprio is an American actor and film producer. He has received numerous awards including an Academy Award for Best Actor. DiCaprio gained fame for his roles in films like 'Titanic' and has continued to deliver powerful performances in a wide range of genres."
+  },
+  {
+    "name": "Meryl Streep",
+    "performances": [
+    {
+      "production": "The Devil Wears Prada",
+      "type": "Movie"
+    },
+    {
+      "production": "Big Little Lies",
+      "type": "Series"
+    },
+    {
+      "production": "Mamma Mia!",
+      "type": "Movie"
+    },
+    {
+      "production": "The Iron Lady",
+      "type": "Movie"
+    },
+    {
+      "production": "Julie & Julia",
+      "type": "Movie"
+    },
+    {
+      "production": "The Post",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Meryl Streep is an American actress. Often described as the 'best actress of her generation', Streep is particularly known for her versatility and accent adaptation. She has been nominated for the Academy Award a record-breaking 21 times and has won it three times. Streep's illustrious career spans over four decades, during which she has delivered remarkable performances in a wide range of roles."
+  },
+  {
+    "name": "Nicole Kidman",
+    "performances": [
+    {
+      "production": "Moulin Rouge!",
+      "type": "Movie"
+    },
+    {
+      "production": "The Hours",
+      "type": "Movie"
+    },
+    {
+      "production": "Eyes Wide Shut",
+      "type": "Movie"
+    },
+    {
+      "production": "The Others",
+      "type": "Movie"
+    },
+    {
+      "production": "To Die For",
+      "type": "Movie"
+    },
+    {
+      "production": "Dead Calm",
+      "type": "Movie"
+    },
+    {
+      "production": "Rabbit Hole",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Nicole Kidman is an Australian actress and producer. She is known for her compelling performances and has won numerous awards, including an Academy Award for Best Actress. Kidman is celebrated for her ability to convey complex emotions and bring depth to her characters."
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "performances": [
+    {
+      "production": "Iron Man",
+      "type": "Movie"
+    },
+    {
+      "production": "Sherlock Holmes",
+      "type": "Movie"
+    },
+    {
+      "production": "Chaplin",
+      "type": "Movie"
+    },
+    {
+      "production": "The Avengers",
+      "type": "Movie"
+    },
+    {
+      "production": "Tropic Thunder",
+      "type": "Movie"
+    },
+    {
+      "production": "Less than Zero",
+      "type": "Movie"
+    },
+    {
+      "production": "Kiss Kiss Bang Bang",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Robert Downey Jr. is an American actor and producer. He is known for his charismatic and versatile roles. Downey Jr. gained widespread recognition for his portrayal of Tony Stark/Iron Man in the Marvel Cinematic Universe and has continued to deliver memorable performances across various genres."
+  },
+  {
+    "name": "Test Actor",
+    "performances": [
+    {
+      "production": "Test Movie",
+      "type": "Movie"
+    }
+    ],
+    "ratings": [
+      {
+        "username": "testRegular",
+        "rating": 5,
+        "comment": "ceva"
+      },
+    ]
+  },
+  {
+    "name": "Tom Hanks",
+    "performances": [
+    {
+      "production": "Forrest Gump",
+      "type": "Movie"
+    },
+    {
+      "production": "Cast Away",
+      "type": "Movie"
+    },
+    {
+      "production": "Saving Private Ryan",
+      "type": "Movie"
+    },
+    {
+      "production": "Toy Story",
+      "type": "Movie"
+    },
+    {
+      "production": "Philadelphia",
+      "type": "Movie"
+    },
+    {
+      "production": "A League of Their Own",
+      "type": "Movie"
+    },
+    {
+      "production": "The Simpsons Movie",
+      "type": "Movie"
+    },
+    {
+      "production": "Bosom Buddies",
+      "type": "Series"
+    }
+    ],
+    "biography": "Tom Hanks is an American actor. He is known for his versatile roles and has won numerous awards including two Academy Awards for Best Actor. Hanks' career spans over four decades, during which he has delivered iconic performances in various genres."
+  },
+  {
+    "name": "Vasile Versaci",
+    "performances": [
+    {
+      "production": "Vasile Versaci , cel mai bun pregratar gateste orez cu lapte!",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Vasile Versaci este un pregratar roman. Acesta a devenit cunoscut in 2017, odata cu lansarea filmului 'Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!'."
+  },
+  {
+    "name": "Viola Davis",
+    "performances": [
+    {
+      "production": "Doubt",
+      "type": "Movie"
+    },
+    {
+      "production": "The Help",
+      "type": "Movie"
+    },
+    {
+      "production": "Fences",
+      "type": "Movie"
+    },
+    {
+      "production": "Widows",
+      "type": "Movie"
+    }
+    ],
+    "biography": "Viola Davis is an American actress and producer. She is known for her powerful and emotionally resonant performances. Davis has won numerous awards, including an Academy Award for her role in 'Fences'. She is also known for her role as Annalise Keating in the TV series 'How to Get Away with Murder'."
+  }
+]
